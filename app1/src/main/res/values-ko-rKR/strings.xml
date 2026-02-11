@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">quiz</string>
+    <!--2-1 회원가입-->
+    <string name="join_title">회원가입</string>
+    <string name="join_name">이름을 입력하세요</string>
+    <string name="join_email">이메일을 입력하세요</string>
+    <string name="join_gender">성별</string>
+    <string name="join_gender_male">남성</string>
+    <string name="join_gender_female">여성</string>
+    <string name="join_tc_agree_text">이용약관에 동의합니다.</string>
+    <string name="join">가입하기</string>
+    <string name="join_info_text">가입 결과</string>
+
+    <!--5 글로벌 문자열 표현-->
+    <string name="global_title">Messenger에서 휴대폰 연락처에 있는 사람들을 찾아보세요</string>
+    <string name="global_contents">연락처를 계속 업로드하면 Facebook 및 Messenger에서 연결된 연락처를 추천하고 회원님과 다른 사람들에게 더욱 관련성 높은 광고를 표시하여 더 나은 서비스를 제공하는데 도움이 됩니다.</string>
+    <string name="setting_button">설정</string>
+    <string name="later_button">나중에 하기</string>
+</resources>

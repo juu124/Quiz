@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">quiz</string>
+    <!--2-1 회원가입-->
+    <string name="join_title">회원가입</string>
+    <string name="join_name">이름을 입력하세요</string>
+    <string name="join_email">이메일을 입력하세요</string>
+    <string name="join_gender">성별</string>
+    <string name="join_gender_male">남성</string>
+    <string name="join_gender_female">여성</string>
+    <string name="join_tc_agree_text">이용약관에 동의합니다.</string>
+    <string name="join">가입하기</string>
+    <string name="join_info_text">가입 결과</string>
+
+    <!--5 글로벌 문자열 표현-->
+    <string name="global_title">Find your phone contacts on Messenger</string>
+    <string name="global_contents">Continuously uploading your contacts helps Facebook and Messenger suggest connections and provide and improve ads for you and others, and offer a better service.</string>
+    <string name="setting_button">TURN ON</string>
+    <string name="later_button">NOT NOW</string>
+</resources>
