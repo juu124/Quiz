@@ -9,6 +9,15 @@
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
       <SelectionState runConfigName="LoginActivity">
+      <SelectionState runConfigName="LoginActivity (1)">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
+      <SelectionState runConfigName="Quiz5_1Activity">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
+      <SelectionState runConfigName="Quiz5_1Activity (1)">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
     </selectionStates>
