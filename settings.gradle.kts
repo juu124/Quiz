@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "Quiz"
 include(":app")
 include(":app1")
+include(":OnlyCode")

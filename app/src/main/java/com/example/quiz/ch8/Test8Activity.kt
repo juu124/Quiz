@@ -8,6 +8,7 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.GridLayoutManager
+import com.example.quiz.MyApplication
 import com.example.quiz.R
 import com.example.quiz.databinding.ActivityTest8Binding
 import retrofit2.Call

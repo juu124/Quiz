@@ -1,0 +1,17 @@
+package com.example.onlycode.ch1
+
+data class Order(
+    val orderId: Int,
+    val customerId: Int,
+    val items: List<String>,
+    val totalAmount: Int,
+    val status: String,
+    val isPriority: Boolean
+)
+
+data class ProcessedOrder(
+    val orderId: Int,
+    val customerId: Int,
+    val finalAmount: Int,
+    val message: String
+)
